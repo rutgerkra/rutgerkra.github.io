@@ -1,1 +1,1 @@
-<table><tr><td> [Home](/) </td><td> [About me](about_me.md) </td></tr></table>
+<table><tr><td> <a href="/">Home</a> </td><td> <a href="/about_me.md">About me</a> </td></tr></table>
