@@ -1,1 +1,2 @@
-{% include_relative menu.md %}
+| [Home](/) | [About me](about_me.md) |
+|---|---|
